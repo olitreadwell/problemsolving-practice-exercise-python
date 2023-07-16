@@ -5,6 +5,7 @@
 ########################################################################
 
 ########################################################################
+########################################################################
 ## Instructions
 ## Complete each of these problems by writing a function
 ## Keep your functions readable
@@ -13,18 +14,18 @@
 ## This exercise is less about getting the answers. It is about building good problem-solving skills and habits.
 ## Practice the skills of experimenting#testing with what you already know
 ## Writing sample tests to check your work
-## Identifying edge cases and planning for them, such as:
-## What happens if you don’t get the data type you expect
-## Does it handle positive numbers, negative numbers, decimals
-## Does it handle empty arrays, strings, undefined
+##     Identifying edge cases and planning for them, such as:
+##         What happens if you don’t get the data type you expect
+##         Does it handle positive numbers, negative numbers, decimals
+##         Does it handle empty arrays, strings, undefined
 ## Looking up and reading the documentation for concepts you’re not sure of
 ## Creating a problem-solving process (write it down, iterate on it, improve upon it)
 ## Creating a process for when you’re stuck (write it down, iterate on it, improve upon it)
 ## Creating a process for troubleshooting (write it down, iterate on it, improve upon it)
 ## Identifying what you know from the problem as you read
-## What are the inputs?
-## What is the function expected to return?
-## What types of data are mentioned?
+##     What are the inputs?
+##     What is the function expected to return?
+##     What types of data are mentioned?
 ## Cluing into what hints are given for writing the code as you read
 ## Breaking down a problem into parts
 ## Writing testable code quickly
@@ -33,8 +34,9 @@
 ## Imagining good data structures to use
 ## How to write functions that protect against errors or handle errors better
 ## Refactoring code after writing tests that your code passes
-## Identifying when a function does more than 1 thing and could be broken into two simpler functions
+##     Identifying when a function does more than 1 thing and could be broken into two simpler functions
 ## Re-using code, if one of these problems allows you to write a function that can help with another problem somehow, figure out if you can re-use that code or modify it, so it can satisfy both problem statements
+########################################################################
 ########################################################################
 
 ########################################################################
